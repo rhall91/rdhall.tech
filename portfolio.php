@@ -1,3 +1,9 @@
+<?php
+
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,16 +33,15 @@
                 <div class="inner">
                     <h3 class="masthead-brand">Yarr!</h3>
                     <nav class="nav nav-masthead">
-                        <a class="nav-link active" href="/">Home</a>
-                        <a class="nav-link" href="/portfolio" >Portfolio</a>
-<!--                        <a class="nav-link" href="#">Contact</a>-->
+                        <a class="nav-link " href="/">Home</a>
+                        <a class="nav-link active" href="/portfolio">Portfolio</a>
+                        <!--                        <a class="nav-link" href="#">Contact</a>-->
                     </nav>
                 </div>
             </div>
 
             <div class="inner cover">
-                <h1 class="cover-heading"><span class="typedElement"></span></h1>
-                <p class="lead">Based on Florida's Space Coast.</p>
+                <h1 class="cover-heading">Projects:</h1>
                 <p>Check back soon, more to come!</p>
 
             </div>
