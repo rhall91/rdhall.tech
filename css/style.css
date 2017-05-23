@@ -128,6 +128,13 @@ body {
 /*
  * Affix and center
  */
+@media (min-width: 0em){
+    .mastfoot{
+        bottom: 0;
+        position: fixed;
+        width: 100%;
+    }
+}
 
 @media (min-width: 40em) {
     /* Pull out the header and footer */
@@ -215,3 +222,4 @@ body {
     color: #fff;
     transform: scale(1.2);
 }
+
